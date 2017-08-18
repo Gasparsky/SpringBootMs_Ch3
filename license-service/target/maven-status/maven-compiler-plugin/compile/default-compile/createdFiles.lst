@@ -1,0 +1,8 @@
+gas\springmicro\model\Organization.class
+gas\springmicro\config\ServiceConfig.class
+gas\springmicro\services\LicenseService.class
+gas\springmicro\Application.class
+gas\springmicro\controllers\LicenseServiceController.class
+gas\springmicro\model\License.class
+gas\springmicro\repository\LicenseRepository.class
+gas\springmicro\controllers\MockerLicenseController.class
